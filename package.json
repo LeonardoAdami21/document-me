@@ -1,0 +1,8 @@
+{
+  "name": "document-me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Leonardo Adami",
+  "license": "MIT",
+  "private": false
+}
